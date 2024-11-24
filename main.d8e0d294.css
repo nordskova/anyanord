@@ -288,8 +288,8 @@ button, input, select, textarea {
 }
 
 a {
-    color: #27382b;
-    text-decoration:underline
+    color: #b30043;
+    text-decoration:none
 }
 
 a:focus, a:hover {
